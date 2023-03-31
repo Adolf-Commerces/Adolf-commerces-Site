@@ -1,10 +1,10 @@
 {
   "main": {
-    "css": "main.css",
-    "js": "main.js"
+    "css": "main.4d942.css",
+    "js": "main.4d942.js"
   },
   "cms": {
-    "js": "cms.js"
+    "js": "cms.4d942.js"
   },
   "": {
     "html": "admin/index.html",
